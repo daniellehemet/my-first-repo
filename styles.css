@@ -6,3 +6,22 @@ html { box-sizing: border-box;}
 
 .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; border: 0; padding: 0; white-space: nowrap; clip-path: inset(100%); clip: rect(0 0 0 0); overflow: hidden;}
 
+body {
+  background-color: lavenderblush;
+}
+
+header {
+  background-color: lavender;
+  color: midnightblue;
+  min-height: 30vh;
+}
+
+h1 {
+  color: darkorchid;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: uppercase;
+  border-bottom: 2px solid black;
+}
