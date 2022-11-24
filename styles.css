@@ -25,3 +25,7 @@ h2 {
   text-transform: uppercase;
   border-bottom: 2px solid black;
 }
+
+section {
+  width:50%;
+}
