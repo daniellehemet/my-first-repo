@@ -29,3 +29,8 @@ h2 {
 section {
   width:50%;
 }
+
+p {
+  font-weight: bold;
+  color: midnightblue;
+}
